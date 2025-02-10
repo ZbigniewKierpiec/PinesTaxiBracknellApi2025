@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/pinesexecutivetravelapidbserver/databases/PinesExecutiveTravelApi_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:Demo5PinesExecutiveTravelConnectionString2",
+      "dynamicId": null
+    }
+  }
+}

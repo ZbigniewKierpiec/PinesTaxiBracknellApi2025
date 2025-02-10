@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PinesExecutiveTravelApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\zbigniew\.kierpiec\\Desktop\\Zee\ Apps\\PineExecutiveCarsApi03-02-2025\\PinesExecutiveTravelApi\\PinesExecutiveTravelApi\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

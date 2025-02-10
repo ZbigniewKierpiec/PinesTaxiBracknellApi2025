@@ -1,0 +1,6 @@
+@PinesExecutiveTravelApi_HostAddress = http://localhost:5105
+
+GET {{PinesExecutiveTravelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

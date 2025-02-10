@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "type": "apis"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Demo5PinesExecutiveTravelConnectionString1",
+      "dynamicId": null
+    },
+    "identityapp1": {
+      "type": "identityapp"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:PineTaxi"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Demo5PinesExecutiveTravelConnectionString2",
+      "dynamicId": null
+    }
+  }
+}
